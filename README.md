@@ -1,2 +1,2 @@
-# DataAnalysisByPython
-利用Python做数据分析（从数据获取到可视化）
+# 利用Python做数据分析
+通过Python做数据全生命周期处理，包括数据采集、数据处理、数据分析和数据可视化。
